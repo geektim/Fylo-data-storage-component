@@ -20,7 +20,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url('./images/bg-mobile.png');
+    background-image: url('bg-mobile.png');
     background-repeat: no-repeat;
     background-size: cover;
     color: var(--pale-blue);
@@ -149,7 +149,7 @@ main > .secondContent > .dialogue > p:nth-child(2) {
 
 @media (min-width: 769px) {
     body {
-        background-image: url(./images/bg-desktop.png);
+        background-image: url('bg-desktop.png');
         background-repeat: no-repeat;
         background-size: cover;
         background-position: top;
